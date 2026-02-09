@@ -13,7 +13,7 @@ export function Footer() {
           {/* Social Links */}
           <div className="flex items-center gap-6">
             <a
-              href="https://github.com/ghaniya08"
+              href="https://github.com/sitesbykashan"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted hover:text-primary transition-colors duration-200"
@@ -34,7 +34,7 @@ export function Footer() {
             </a>
 
             <a
-              href="https://instagram.com/ghaniya08"
+              href="https://instagram.com/kashan_malik811"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted hover:text-primary transition-colors duration-200"
