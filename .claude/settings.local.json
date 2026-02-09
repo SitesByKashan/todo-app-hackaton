@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "Bash(uvicorn:*)"
+      "Bash(uvicorn:*)",
+      "Bash(timeout:*)",
+      "Bash(pip install:*)"
     ]
   }
 }
